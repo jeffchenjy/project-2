@@ -42,8 +42,6 @@ h6 {
 .navbar .active {
 	color: #1B3D67 !important;
 }
-.navbar .navbar-brand {
-}
 .navbar .nav-item {
 	margin: 0 5px;
 	padding: 0;
@@ -419,14 +417,14 @@ input {
 	line-height: 20px;
 	margin: 0;
 }
-.footer-copy {
+.footer {
 	background: #ffffff;
 	color: #242424;
 	font-size: 13px;
 	text-align: center;
 	padding:15px 0px;
 }
-.footer-copy p {
+.footer p {
 	margin-bottom:0px;
 }
 @media all and (max-width:991px) {
